@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prontotheant, Alex Patterson
-- 🌱 I’m currently learning software engineering at FGCU
+- 🌱 Currently a senior in the software engineering program at FGCU
 - 📫 How to reach me: alexpatterson2019@gmail.com
 
 <!---
