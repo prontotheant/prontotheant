@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @prontotheant, Alex Patterson
-- 🌱 Currently a senior in the software engineering program at FGCU
-- 📫 How to reach me: alexpatterson2019@gmail.com
+- 🌱 I graduated from FGCU with my B.S. in Software Engineering 
+- ⛈️ I'm employed at StormSmart in their IT department
+- 📫 How to reach me: alexpatterson2023@gmail.com
 
 <!---
 prontotheant/prontotheant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
