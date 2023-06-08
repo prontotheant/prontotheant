@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prontotheant, Alex Patterson
 - 🌱 I graduated from FGCU with my B.S. in Software Engineering 
-- ⛈️ I'm employed at StormSmart in their IT department
+- ⛈️ I'm employed in SWFL in IT 
 - 📫 How to reach me: alexpatterson2023@gmail.com
 
 <!---
